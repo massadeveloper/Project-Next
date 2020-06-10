@@ -1,0 +1,17 @@
+{
+  "name": "progetto1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.4.4",
+    "reac": "0.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
